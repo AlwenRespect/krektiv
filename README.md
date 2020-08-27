@@ -1,0 +1,2 @@
+# krektiv
+Krektiv Discord Bot
